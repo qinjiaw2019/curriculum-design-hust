@@ -4,6 +4,15 @@
     该系统能对火车车次，经停车站，经停车站信息进行管理，包括车次管理，经停车站管理，经停车站信息管理。
     其中，可在本系统查询车次信息，车次经过的停车站信息。同时，可在查询系统中按条件检索相关的车次车站信息，如：查询某车次的经停站信息，剩余票数，不同类型的票价，以及具体的发车时间、到站时间、经过车站等详细信息。
 
+# 源码目录：
+```
+    |--info.H 接口文件
+    |--main.c 主程序
+    |--stoptstaion.txt     车辆数据
+    |--stoptstaion_inf.txt 车次数据
+    |--train.txt           停车站数据
+```
+
 # 系统模块结构图
 
 ![系统模块结构图][1]
@@ -54,7 +63,7 @@
 ![此处输入图片的描述][14]
 
 
-  [1]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/1.png
+  [1]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/1.jpg
   [2]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/2.jpg
   [3]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/3.jpg
   [4]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/4.jpg
