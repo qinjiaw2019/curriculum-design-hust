@@ -63,7 +63,7 @@
 ![此处输入图片的描述][14]
 
 
-  [1]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/1.jpg
+  [1]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/1.png
   [2]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/2.jpg
   [3]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/3.jpg
   [4]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/4.jpg
