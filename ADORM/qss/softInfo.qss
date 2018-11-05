@@ -1,0 +1,6 @@
+/* === QWidget === */
+
+
+#SoftInfo{
+border-image: url(:/bg/images/bg.png);
+}

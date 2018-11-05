@@ -1,0 +1,8 @@
+/* === QWidget === */
+
+
+
+#Statistics{
+    background-image: url(:/bg/images/bg.png);
+
+}

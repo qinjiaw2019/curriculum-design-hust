@@ -1,0 +1,6 @@
+/* === QWidget === */
+
+
+#loadData{
+border-image: url(:/bg/images/bg.png);
+}

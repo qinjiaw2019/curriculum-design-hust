@@ -1,0 +1,45 @@
+/* === QWidget === */
+#bg_label{
+    background-image: url(:/bg/images/bg.png);
+
+}
+#item1,#item2,#item3,#item4,#item5,#item6,#item7{
+	border:1px solid #FBF1E5;
+	background-color:#EDE8CA;
+	font-size: 20px;
+	font-weight: bold;
+	color: #ABA859;
+}
+#item1:hover {
+        background-color: #F8DA9C;
+	color: #C3601D;
+}
+
+#item2:hover {
+        background-color: #F8DA9C;
+	color: #C3601D;
+}
+
+#item3:hover {
+    background-color: #F8DA9C;
+	color: #C3601D;
+}
+
+#item4:hover {
+    background-color: #F8DA9C;
+	color: #C3601D;
+}
+
+#item5:hover {
+    background-color: #F8DA9C;
+	color: #C3601D;
+}
+
+#item6:hover {
+    background-color: #F8DA9C;
+	color: #C3601D;
+}
+#item7:hover {
+    background-color: #F8DA9C;
+	color: #C3601D;
+}

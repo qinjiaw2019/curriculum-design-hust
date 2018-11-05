@@ -1,0 +1,13 @@
+/* === QWidget === */
+
+
+#Chart{
+border-image: url(:/bg/images/bg.png);
+}
+
+#selectbtn,#selectbtn2,#selectbtn3,#selectbtn4,#selectbtn5,#selectbtn6,#selectbtn7,#selectbtn8{
+	border:1px solid #E09A80;
+	background-color:#F9916E;
+	border-radius:7px;
+	color: #FFFAF3;
+}

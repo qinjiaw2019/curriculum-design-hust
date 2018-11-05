@@ -1,0 +1,37 @@
+/* === QWidget === */
+
+#SearchLevel{
+border-image: url(:/bg/images/perbg.jpg);
+}
+
+#name,#re_name,#id,#relative_value1,#relative_name2,#id_2{
+	border:1px solid #FBF1E5;
+	background-color:#EDE8CA;
+	font-size: 20px;
+	font-weight: bold;
+	color: #ABA859;
+}
+#name:hover {
+        background-color: #F8DA9C;
+	color: #C3601D;
+}
+#re_name:hover {
+        background-color: #F8DA9C;
+	color: #C3601D;
+}
+#id:hover {
+        background-color: #F8DA9C;
+	color: #C3601D;
+}
+#relative_value1:hover {
+        background-color: #F8DA9C;
+	color: #C3601D;
+}
+#relative_name2:hover {
+        background-color: #F8DA9C;
+	color: #C3601D;
+}
+#id2:hover {
+        background-color: #F8DA9C;
+	color: #C3601D;
+}

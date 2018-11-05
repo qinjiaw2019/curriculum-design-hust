@@ -1,0 +1,201 @@
+/* === QWidget === */
+
+
+#PersonInfo{
+border-image: url(:/bg/images/bg.png);
+}
+
+#search{
+	line-height: 50px;
+	background-color:rgb(255, 255, 255);
+  font: 75 16pt "微软雅黑";
+  font-size:16px;
+  font-color::rgb(0, 0, 0);
+border-color:#A7CDFF;
+
+}
+
+#sobtn{
+	
+}
+
+#selectper,#selectper_2,#selectper_4{
+	border: 1px solid gray;
+        border-radius: 3px;
+        padding: 1px 2px 1px 2px;
+}
+
+#selectper::drop-down{
+    subcontrol-origin: padding;
+    subcontrol-position: top right;
+    width: 20px;
+ 
+    border-left-width: 1px;
+    border-left-color: darkgray;
+    border-left-style: solid; /* just a single line */
+    border-top-right-radius: 3px; /* same radius as the QComboBox */
+    border-bottom-right-radius: 3px;
+}
+
+#selectper_2::drop-down{
+    subcontrol-origin: padding;
+    subcontrol-position: top right;
+    width: 20px;
+ 
+    border-left-width: 1px;
+    border-left-color: darkgray;
+    border-left-style: solid; /* just a single line */
+    border-top-right-radius: 3px; /* same radius as the QComboBox */
+    border-bottom-right-radius: 3px;
+}
+
+#selectper_4::drop-down{
+    subcontrol-origin: padding;
+    subcontrol-position: top right;
+    width: 20px;
+ 
+    border-left-width: 1px;
+    border-left-color: darkgray;
+    border-left-style: solid; /* just a single line */
+    border-top-right-radius: 3px; /* same radius as the QComboBox */
+    border-bottom-right-radius: 3px;
+}
+
+
+#selectper::down-arrow {
+    image: url(:/img/images/arrow_down.png);
+}
+#selectper_2::down-arrow {
+    image: url(:/img/images/arrow_down.png);
+}
+#selectper_4::down-arrow {
+    image: url(:/img/images/arrow_down.png);
+}
+#selectper::editable {
+    background: rgb(80, 80, 80);
+}
+#selectper_2::editable {
+    background: rgb(80, 80, 80);
+}
+#selectper_4::editable {
+    background: rgb(80, 80, 80);
+}
+#selectper::down-arrow:on { /* shift the arrow when popup is open */
+    top: 1px;
+    left: 1px;
+}
+
+#selectper_2::down-arrow:on { /* shift the arrow when popup is open */
+    top: 1px;
+    left: 1px;
+}
+#selectper_4::down-arrow:on { /* shift the arrow when popup is open */
+    top: 1px;
+    left: 1px;
+}
+#selectper QAbstractItemView::item
+{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  height:25px;
+  background-color:#afdfe4;  /*水色*/
+min-height: 40px; min-width: 60px;
+}
+#selectper_2 QAbstractItemView::item
+{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  height:25px;
+  background-color:#afdfe4;  /*水色*/
+min-height: 40px; min-width: 60px;
+}
+
+#selectper#groupComboBox{
+border:0px ;
+background-color:#afdfe4;  /*水色*/
+font-size:7pt;
+}
+
+#selectper_2#groupComboBox{
+border:0px ;
+background-color:#afdfe4;  /*水色*/
+font-size:7pt;
+}
+
+
+
+#sobtn
+{
+	color: rgb(255, 255, 255);
+	background-color: rgb(167, 205, 255);
+	border:none;
+    padding: 3px;
+	font-family: "Verdana";
+	font-size: 15px;
+	text-align: center;
+}
+#sobtn:hover, QPushButton:pressed , QPushButton:checked
+{
+	background-color: rgb(85, 170, 255);
+	text-align: center;
+	padding-right: 20px;
+	font-weight:100
+}
+#sobtn:hover
+{
+	background-image: url(:/icon/icons/dark/appbar.navigate.next.png);
+	background-repeat:no-repeat;
+	background-position: center;
+}
+#sobtn:pressed, #sobtn:checked
+{
+	background-image: url(:/icon/icons/light/appbar.navigate.next.png);
+	background-repeat:no-repeat;
+	background-position: center;
+}
+
+
+#clearbtn
+{
+	color: rgb(255, 255, 255);
+	background-color: rgb(167, 205, 255);
+	border:none;
+    padding: 3px;
+	font-family: "Verdana";
+	font-size: 15px;
+	text-align: center;
+}
+#clearbtn:hover, QPushButton:pressed , QPushButton:checked
+{
+	background-color: rgb(85, 170, 255);
+	text-align: center;
+	padding-right: 20px;
+	font-weight:100
+}
+#clearbtn:hover
+{
+	background-image: url(:/icon/icons/dark/appbar.navigate.next.png);
+	background-repeat:no-repeat;
+	background-position: center;
+}
+#clearbtn:pressed, #sobtn:checked
+{
+	background-image: url(:/icon/icons/light/appbar.navigate.next.png);
+	background-repeat:no-repeat;
+	background-position: center;
+}
+
+
+#pertext {
+	border: 1px solid rgb(41, 57, 85);   /* 边框1px宽，颜色为深紫色*/
+	border-radius: 3px;  /* 给定3px边框圆角*/
+	background: #FFF8F2;  
+	selection-background-color: green;/* 这个属性设定文本选中时的文本背景色*/
+	font-size: 20px ;  /* 文本的大小*/
+}
+
+
+#font{
+	background: #FFF8F2;  
+	font-size: 20px ;  /* 文本的大小*/
+}
