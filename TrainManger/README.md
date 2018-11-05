@@ -55,16 +55,16 @@
 
 
   [1]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/1.png
-  [2]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/2.png
-  [3]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/3.png
-  [4]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/4.png
-  [5]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/5.png
-  [6]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/6.png
-  [7]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/7.png
-  [8]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/8.png
-  [9]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/9.png
-  [10]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/10.png
-  [11]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/11.png
-  [12]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/12.png
-  [13]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/13.png
-  [14]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/14.png
+  [2]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/2.jpg
+  [3]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/3.jpg
+  [4]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/4.jpg
+  [5]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/5.jpg
+  [6]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/6.jpg
+  [7]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/7.jpg
+  [8]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/8.jpg
+  [9]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/9.jpg
+  [10]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/10.jpg
+  [11]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/11.jpg
+  [12]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/12.jpg
+  [13]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/13.jpg
+  [14]: https://github.com/qinjiaw2019/curriculum-design-hust/blob/master/TrainManger/shortcut/14.jpg
